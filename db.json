@@ -59,5 +59,63 @@
       "fee": 2876,
       "id": 2
     }
+  ],
+  "freelancers": [
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "profession": "Student",
+      "skills": [
+        ""
+      ],
+      "hourly_rate": 0,
+      "profile_picture": "https://reqres.in/img/faces/1-image.jpg",
+      "isBooked": false,
+      "id": 1
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "profession": "Student",
+      "skills": [
+        ""
+      ],
+      "hourly_rate": 0,
+      "profile_picture": "https://reqres.in/img/faces/1-image.jpg",
+      "isBooked": false,
+      "id": 2
+    },
+    {
+      "name": "hjyiuujioj",
+      "email": "sndkjshd@hjgd",
+      "password": "k. dfkldfvdfkjf",
+      "profession": "Student",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "hourly_rate": 35,
+      "profile_picture": "https://reqres.in/img/faces/3-image.jpg",
+      "isBooked": false,
+      "id": 4
+    },
+    {
+      "name": "jcnhfdkjfdskjd",
+      "email": "jdskjlfdskj@kjfkl",
+      "password": "di;ljdfkhd",
+      "profession": "Web Developer",
+      "skills": [
+        "html",
+        " css",
+        " java"
+      ],
+      "hourly_rate": 454,
+      "profile_picture": "https://reqres.in/img/faces/3-image.jpg",
+      "isBooked": false,
+      "id": 5
+    }
   ]
 }
