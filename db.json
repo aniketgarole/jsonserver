@@ -1,64 +1,27 @@
 {
   "users": [
     {
-      "userName": "tony start",
-      "email": "start@gmail.com",
-      "password": "132ijios",
-      "isDoctor": true,
+      "userName": "tonystark",
+      "email": "tony@gmail.com",
+      "password": "ironman",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/000/439/863/original/vector-users-icon.jpg",
       "id": 1
-    },
-    {
-      "userName": "steve",
-      "email": "cap@gmail.com",
-      "password": "klfjios",
-      "isDoctor": false,
-      "id": 2
-    },
-    {
-      "userName": "",
-      "email": "",
-      "password": "",
-      "isDoctor": false,
-      "id": 3
-    },
-    {
-      "userName": "",
-      "email": "",
-      "password": "",
-      "isDoctor": false,
-      "id": 4
-    },
-    {
-      "userName": "",
-      "email": "",
-      "password": "",
-      "isDoctor": false,
-      "id": 5
     }
   ],
-  "appointments": [
+  "forum": [
     {
-      "name": "fvdfgdff",
-      "img": "sdfdg",
-      "special": "Dermatologist",
-      "exp": "4",
-      "loc": "sdfdsf",
-      "date": "2023-05-11",
-      "slots": "4",
-      "fee": "34324",
+      "question_title": "hfvhjbgjhgkg",
+      "question_des": "asdfsgfhhfgbg",
+      "language": "PYTHON",
       "id": 1
     },
     {
-      "name": "afdfg",
-      "img": "sdfdg",
-      "special": "Dermatologist",
-      "exp": 7,
-      "loc": "erwet",
-      "date": "2023-05-05",
-      "slots": 56,
-      "fee": 2876,
+      "question_title": "hhhhghjgh",
+      "question_des": "sefressfsdff",
+      "language": "JAVASCRIPT",
+      "user_id": 1,
+      "answers": [],
       "id": 2
     }
   ]
-  
 }
