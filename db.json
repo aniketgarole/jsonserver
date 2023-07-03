@@ -1,27 +1,6 @@
 {
   "users": [
-    {
-      "userName": "tonystark",
-      "email": "tony@gmail.com",
-      "password": "ironman",
-      "avatar": "https://static.vecteezy.com/system/resources/previews/000/439/863/original/vector-users-icon.jpg",
-      "id": 1
-    }
-  ],
-  "forum": [
-    {
-      "question_title": "hfvhjbgjhgkg",
-      "question_des": "asdfsgfhhfgbg",
-      "language": "PYTHON",
-      "id": 1
-    },
-    {
-      "question_title": "hhhhghjgh",
-      "question_des": "sefressfsdff",
-      "language": "JAVASCRIPT",
-      "user_id": 1,
-      "answers": [],
-      "id": 2
-    }
+   
   ]
+  
 }
